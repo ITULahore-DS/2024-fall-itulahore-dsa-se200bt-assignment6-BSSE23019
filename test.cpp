@@ -128,5 +128,3 @@ TEST_CASE("Peek from empty stack test", "[peek]") {
     // Since peek returns -1 when the stack is empty
     REQUIRE(topValue == -1);
 }
-
-
